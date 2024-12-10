@@ -1,0 +1,2 @@
+# minecraft-redirect
+Lumoria redirect
